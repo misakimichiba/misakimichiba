@@ -1,5 +1,7 @@
 
-## <h1 align="center"> Hi there 👋</h1>
+## <h1 align="center"> Hi there 👋 </h1>
+
+I'm Misaki Michiba, a computer science student whose been getting into mobile development recently
 
 <!--
 **misakimichiba/misakimichiba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
