@@ -1,6 +1,9 @@
 <h1 align="center"> Hi there 👋 </h1>
 
-I'm Misaki Michiba, a computer science student who has been getting into mobile development recently
+I'm Misaki Michiba, a computer science student who has been getting into mobile development recently. I love making art and creating stuff
+
+- 🔭 I’m currently working on improving my portfolio and tweaking my portfolio website
+- 🌱 I’m currently learning Flutter and Dart
 
 <!--
 **misakimichiba/misakimichiba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
