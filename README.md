@@ -1,5 +1,4 @@
-
-## <h1 align="center"> Hi there 👋 </h1>
+<h1 align="center"> Hi there 👋 </h1>
 
 I'm Misaki Michiba, a computer science student who has been getting into mobile development recently
 
