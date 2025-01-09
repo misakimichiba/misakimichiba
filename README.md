@@ -5,7 +5,7 @@ I'm Misaki Michiba, a computer science fresh graduate who has been learning C# a
 If you're looking for a fresh graduate to fill a full-stack dev opportunity who is willing to learn and soak up skills like a sponge, feel free to contact me! (Portfolio WIP link in bio with contact details)
 
 - 🔭 I’m currently working on improving my portfolio and tweaking my portfolio website
-- 🌱 I’m currently learning C# and Ruby
+- 🌱 I’m currently learning node.js, C# and Ruby
 
 <!--
 **misakimichiba/misakimichiba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
