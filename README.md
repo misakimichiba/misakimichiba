@@ -15,6 +15,9 @@ If you're looking for a fresh graduate to fill a full-stack dev opportunity who 
 
 [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=py)](https://www.python.org)
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" />
+  </a>
 
 <!--
 **misakimichiba/misakimichiba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
