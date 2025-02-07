@@ -9,7 +9,7 @@ If you're looking for a fresh graduate to fill a full-stack dev opportunity who 
 
 <h3 align="left">Tech Stack:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,cs,nodejs,express,php,flutter,dart,figma,git,mongodb,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,cs,nodejs,express,php,flutter,dart,figma,git,mongodb,mysql)](https://misakimichiba.github.io/)
 
 <!--
 **misakimichiba/misakimichiba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
