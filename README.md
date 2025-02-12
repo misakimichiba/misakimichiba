@@ -2,7 +2,7 @@
 
 I'm Misaki Michiba, a computer science fresh graduate who has been learning django and electron js recently. I love making art and creating stuff.
 
-If you're looking for a fresh graduate to fill a full-stack dev opportunity who is willing to learn and soak up skills like a sponge, feel free to contact me! (Portfolio WIP link in bio with contact details)
+If you're looking for a fresh graduate to fill a full-stack dev opportunity who is willing to learn and soak up skills like a sponge, feel free to contact me! ([Portfolio Website](https://misakimichiba.github.io/))
 
 - 🔭 I’m currently working on some projects involving node.js and django
 - 🌱 I’m currently learning django and electron
