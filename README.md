@@ -5,7 +5,7 @@ I'm Misaki Michiba, a computer science fresh graduate who has been learning djan
 If you're looking for a fresh graduate to fill a full-stack dev opportunity who is willing to learn and soak up skills like a sponge, feel free to contact me! (Portfolio WIP link in bio with contact details)
 
 - 🔭 I’m currently working on some projects involving node.js and django
-- 🌱 I’m currently learning django
+- 🌱 I’m currently learning django and electron
 
 <h3 align="left">Tech Stack:</h3>
 
