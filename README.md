@@ -1,11 +1,13 @@
 <h1 align="center"> Hi there 👋 </h1>
 
-I'm Misaki Michiba, a computer science fresh graduate who has been learning django and electron js recently. I love making art and creating stuff.
+I'm Misaki Michiba, a computer science fresh graduate looking for a full time developer position starting July 2025 (My internship ends at end of June).
+
+I love making art and creating stuff.
 
 If you're looking for a fresh graduate to fill a full-stack dev opportunity who is willing to learn and soak up skills like a sponge, feel free to contact me! ([Portfolio Website](https://misakimichiba.github.io/))
 
-- 🔭 I’m currently working on some projects involving node.js and django
-- 🌱 I’m currently learning django and electron
+- 🔭 I’m currently working as a software developer intern (Will be done end of june 2025)
+- 🌱 I’m currently working on projects involving django and electron; I'm also implementing them in personal projects too.
 
 <h3 align="left">Tech Stack:</h3>
 
