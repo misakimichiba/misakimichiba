@@ -1,17 +1,12 @@
 <h1 align="center"> Hi there 👋 </h1>
 
-I'm Misaki Michiba, a computer science fresh graduate looking for a full time developer position starting July 2025 (My internship ends at end of June).
+I'm Misaki, I love making art and creating stuff.
 
-I love making art and creating stuff.
+Here's my portfolio website ([Portfolio Website](https://misakimichiba.github.io/))
 
-If you're looking for a fresh graduate to fill a full-stack dev opportunity who is willing to learn and soak up skills like a sponge, feel free to contact me! ([Portfolio Website](https://misakimichiba.github.io/))
+- 🌱 I’m currently working on personal projects involving node.js and hoping to move one of my wips to electron. Trying to get back to the momentum  I had previously
 
-- 🔭 I’m currently working as a software developer intern (Will be done end of june 2025)
-- 🌱 I’m currently working on projects involving django and electron; I'm also implementing them in personal projects too.
-
-<h3 align="left">Tech Stack:</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,cs,django,nodejs,express,php,flutter,dart,figma,git,mongodb,mysql)](https://misakimichiba.github.io/)
+Feel free to message me ✨
 
 <!--
 **misakimichiba/misakimichiba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
